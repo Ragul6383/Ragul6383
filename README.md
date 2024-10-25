@@ -12,7 +12,7 @@
 <p align="left">I'm a self-taught passionate FrontEnd developer from India 🇮🇳<br><br><br>I'm passionate about blending technology with creativity. My approach is rooted in a user-centric design philosophy and a commitment to impactful digital experiences. As a lifelong learner, I’m always seeking opportunities to expand my knowledge, collaborate with others, and push the boundaries of what’s possible.<br><br>Let’s connect and create something amazing together!</p>
 
 ###
-
+<br>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
