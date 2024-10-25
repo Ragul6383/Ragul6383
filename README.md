@@ -89,7 +89,7 @@
   <a href="https://www.instagram.com/kd_flicks_1201" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" title="instagram" />
 </a>
-<a href="mailto:www.ragulr034@gmail.com" target="_blank">
+<a href="mailto:ragulr034@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" title="gmail" />
 </a>
 
