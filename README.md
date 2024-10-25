@@ -97,6 +97,6 @@
 
 ###
 
-<p align="left">Feel free to reach out for collaboration or just to say hi!</p>
+<p align="left">Feel free to say hi!</p>
 
 ###
