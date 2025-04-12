@@ -48,7 +48,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" title="vscode" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss.svg" height="40" alt="vscode logo" title="tailwindcss" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwindcss logo" title="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/daisyui/daisyui/main/src/logo.svg" height="40" alt="daisyui logo" title="DaisyUI" />
 </div>
 
 ###
